@@ -1,0 +1,8 @@
+2021-03-23 12:08:34,183: COMMAND LINE ARGS:
+2021-03-23 12:08:34,183: Namespace(data_dir=PosixPath('data'), data_name='cifar-100', demo=False, save_logs=True, save_results=True, seeds=[0, 10, 20, 30, 40], sigma=0.2, test=True)
+2021-03-23 12:27:14,058: Data: cifar-100 | Seed: 0 | Mean log-likelihood :  844.88 | Time:  1119.50
+2021-03-23 12:45:56,152: Data: cifar-100 | Seed: 10 | Mean log-likelihood :  849.90 | Time:  1121.72
+2021-03-23 13:04:32,976: Data: cifar-100 | Seed: 20 | Mean log-likelihood :  847.19 | Time:  1116.45
+2021-03-23 13:23:09,043: Data: cifar-100 | Seed: 30 | Mean log-likelihood :  846.57 | Time:  1115.69
+2021-03-23 13:41:46,282: Data: cifar-100 | Seed: 40 | Mean log-likelihood :  842.29 | Time:  1116.86
+2021-03-23 13:41:46,282: Data: cifar-100 | Mean log-likelihood Avg:  846.17 | Mean log-likelihood Std:  2.52 | Time Avg:  1118.04 | Time Std:  2.24

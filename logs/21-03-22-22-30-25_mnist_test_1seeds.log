@@ -1,0 +1,3 @@
+2021-03-22 22:30:25,690: COMMAND LINE ARGS:
+2021-03-22 22:30:25,690: Namespace(data_dir=PosixPath('data'), data_name='mnist', demo=False, save_logs=True, save_results=True, seeds=[0], sigma=0.2, test=True)
+2021-03-22 22:32:43,050: Data: mnist | Seed: 0 | Mean log-likelihood :  234.78 | Time:  136.77

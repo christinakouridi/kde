@@ -1,0 +1,8 @@
+2021-03-23 14:14:11,117: COMMAND LINE ARGS:
+2021-03-23 14:14:11,117: Namespace(data_dir=PosixPath('data'), data_name='mnist', demo=False, save_logs=True, save_results=True, seeds=[0, 10, 20, 30, 40], sigma=0.2, test=True)
+2021-03-23 14:16:28,890: Data: mnist | Seed: 0 | Mean log-likelihood :  234.78 | Time:  137.16
+2021-03-23 14:18:42,960: Data: mnist | Seed: 10 | Mean log-likelihood :  233.85 | Time:  133.47
+2021-03-23 14:20:55,043: Data: mnist | Seed: 20 | Mean log-likelihood :  233.80 | Time:  131.51
+2021-03-23 14:23:06,631: Data: mnist | Seed: 30 | Mean log-likelihood :  233.63 | Time:  131.01
+2021-03-23 14:25:18,790: Data: mnist | Seed: 40 | Mean log-likelihood :  234.88 | Time:  131.58
+2021-03-23 14:25:18,790: Data: mnist | Mean log-likelihood Avg:  234.19 | Mean log-likelihood Std:  0.53 | Time Avg:  132.94 | Time Std:  2.27

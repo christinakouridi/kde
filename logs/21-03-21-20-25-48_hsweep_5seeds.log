@@ -1,0 +1,19 @@
+2021-03-21 20:25:48,917: Data: mnist | Sigma: 0.05 | Log-Likelihood Avg: -3130.78 | Log-likelihood Std:  13.74
+2021-03-21 20:39:14,932: Data: mnist | Sigma: 0.08 | Log-Likelihood Avg: -604.86 | Log-likelihood Std:  5.37
+2021-03-21 20:52:35,532: Data: mnist | Sigma: 0.10 | Log-Likelihood Avg: -111.87 | Log-likelihood Std:  3.44
+2021-03-21 21:05:45,674: Data: mnist | Sigma: 0.20 | Log-Likelihood Avg:  235.30 | Log-likelihood Std:  0.86
+2021-03-21 21:19:00,591: Data: mnist | Sigma: 0.50 | Log-Likelihood Avg: -233.57 | Log-likelihood Std:  0.14
+2021-03-21 21:32:11,648: Data: mnist | Sigma: 1.00 | Log-Likelihood Avg: -740.82 | Log-likelihood Std:  0.04
+2021-03-21 21:45:26,601: Data: mnist | Sigma: 1.50 | Log-Likelihood Avg: -1051.08 | Log-likelihood Std:  0.02
+2021-03-21 21:58:52,663: Data: mnist | Sigma: 2.00 | Log-Likelihood Avg: -1272.93 | Log-likelihood Std:  0.02
+2021-03-21 21:58:52,663: Data: mnist | Optimal Sigma: 0.20 | Max Log-Likelihood Avg:  235.30 | Max Log-likelihood Std:  0.86
+
+2021-03-21 23:52:59,611: Data: cifar-100 | Sigma: 0.05 | Log-Likelihood Avg: -13611.52 | Log-likelihood Std:  48.75
+2021-03-22 01:46:49,585: Data: cifar-100 | Sigma: 0.08 | Log-Likelihood Avg: -2878.70 | Log-likelihood Std:  19.04
+2021-03-22 03:40:35,611: Data: cifar-100 | Sigma: 0.10 | Log-Likelihood Avg: -754.20 | Log-likelihood Std:  12.19
+2021-03-22 05:34:26,196: Data: cifar-100 | Sigma: 0.20 | Log-Likelihood Avg:  863.13 | Log-likelihood Std:  3.05
+2021-03-22 07:27:49,327: Data: cifar-100 | Sigma: 0.50 | Log-Likelihood Avg: -902.60 | Log-likelihood Std:  0.49
+2021-03-22 09:19:21,467: Data: cifar-100 | Sigma: 1.00 | Log-Likelihood Avg: -2881.86 | Log-likelihood Std:  0.12
+2021-03-22 11:11:24,808: Data: cifar-100 | Sigma: 1.50 | Log-Likelihood Avg: -4099.24 | Log-likelihood Std:  0.06
+2021-03-22 13:05:04,262: Data: cifar-100 | Sigma: 2.00 | Log-Likelihood Avg: -4972.58 | Log-likelihood Std:  0.03
+2021-03-22 13:05:04,262: Data: cifar-100 | Optimal Sigma: 0.20 | Max Log-Likelihood Avg:  863.13 | Max Log-likelihood Std:  3.05
